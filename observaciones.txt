@@ -1,0 +1,16 @@
+OBSERVACIONES COMPILACION MEMORIOSO
+
+2021.02.25
+observaciones en la ultima subida
+
+Has subido un APK que no está firmado con el certificado de subida. Debes usar el mismo certificado. El certificado de subida tiene la huella digital
+SHA1: 63:24:A4:16:B6:3E:D0:69:19:3C:03:AC:19:CC:8D:ED:C7:5B:8E:C6
+
+, y el certificado que se ha usado para firmar el APK que has subido tiene la huella digital
+SHA1: A4:96:09:CA:36:7F:7F:7A:FB:26:3C:52:0B:5E:4E:23:51:94:4C:4F
+
+
+Huella digital de archivo .keystore
+
+memorioso, 15/03/2021, PrivateKeyEntry,
+Huella Digital de Certificado (SHA1): C9:2E:8C:26:F6:09:90:05:D8:D9:39:E7:14:02:19:9A:AA:73:BE:25
