@@ -1,0 +1,21 @@
+ El volumen de la unidad E es Disco de datos
+ El n£mero de serie del volumen es: 7537-F625
+
+ Directorio de E:\Dropbox\GitHub\MEMORIOSO
+
+15/03/2021  23:30    <DIR>          .
+15/03/2021  23:30    <DIR>          ..
+26/10/1985  05:15               102 .gitignore
+11/03/2021  22:03             1.734 config.xml
+15/03/2021  23:30                 0 dir.txt
+25/02/2021  17:00            46.193 icono-M.png
+15/03/2021  23:29             2.268 memorioso.keystore
+15/03/2021  23:19    <DIR>          node_modules
+15/03/2021  23:19            52.407 package-lock.json
+15/03/2021  23:19               644 package.json
+15/03/2021  23:19    <DIR>          platforms
+15/03/2021  23:19    <DIR>          plugins
+24/02/2021  23:28               118 release-signing.properties
+15/03/2021  23:00    <DIR>          www
+               8 archivos        103.466 bytes
+               6 dirs  131.124.842.496 bytes libres
