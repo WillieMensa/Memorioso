@@ -1,13 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-	id="ar.com.ingverger.memorioso" 
-<<<<<<< Updated upstream
-	versionCode = "30001"
-	version  = "3.0.1"
-=======
+	id="ar.ingverger.memorioso" 
 	versionCode = "30101"
 	version  = "3.1.1"
->>>>>>> Stashed changes
 	xmlns="http://www.w3.org/ns/widgets">
 
 	<name>MEMORIOSO</name>
